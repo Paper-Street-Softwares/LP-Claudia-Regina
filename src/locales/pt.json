@@ -1,0 +1,170 @@
+{
+  "navbar": {
+    "menuItems": {
+      "home": "Início",
+      "service": "Serviços",
+      "about": "Sobre Nós",
+      "faq": "Perguntas Frequentes",
+      "maps": "Mapa"
+    },
+    "ctaButtonText": "Contato",
+    "ctaButtonTextResponsive": "Contato"
+  },
+  "hero": {
+    "miniTag": "ADVOGADA CRIMINALISTA EM GUARULHOS - SP",
+    "title": "Justiça rápida, onde ninguém mais <span class=\"text-primary font-bold\">chega</span>",
+    "subtitle": "Defesa criminal estratégica, humanizada e sem barreiras, pronta para agir a qualquer momento.",
+    "ctaButtonText": "Garanta sua defesa agora",
+    "obsHero": {
+      "text": "Atendimento 24 em casos de prisão em flagrante."
+    }
+  },
+  "features": {
+    "miniTag": "ATUAÇÃO",
+    "title": "Onde a experiência encontra a justiça",
+    "subtitle": "Atuamos de forma estratégica e humana em cada caso, garantindo proteção e resultados.",
+    "card1": {
+      "title": "Tribunal do Júri",
+      "subtitle": "Defesa estratégica em julgamentos de grande impacto.",
+      "description": "A_Definir",
+      "buttonLabelModal": "A_Definir",
+      "buttonLabel": "A_Definir"
+    },
+    "card2": {
+      "title": "Violência Doméstica",
+      "subtitle": "Proteção legal e orientação em casos de abusos familiares.",
+      "description": "A_Definir",
+      "buttonLabelModal": "A_Definir",
+      "buttonLabel": "A_Definir"
+    },
+    "card3": {
+      "title": "Flagrantes e Audiência de Custódia",
+      "subtitle": "Acompanhamento jurídico imediato para detenções.",
+      "description": "A_Definir",
+      "buttonLabelModal": "A_Definir",
+      "buttonLabel": "A_Definir"
+    },
+    "card4": {
+      "title": "Lei de drogas",
+      "subtitle": "Defesa especializada em processos ligados a drogas.",
+      "description": "A_Definir",
+      "buttonLabelModal": "A_Definir",
+      "buttonLabel": "A_Definir",
+      "servicesButton": "A_Definir"
+    },
+    "card5": {
+      "title": "Grandes Operações",
+      "subtitle": "Atuação em investigações complexas e operações.",
+      "description": "A_Definir",
+      "buttonLabelModal": "A_Definir",
+      "buttonLabel": "A_Definir"
+    },
+    "card6": {
+      "title": "Defesa Criminal",
+      "subtitle": "Protegendo direitos em qualquer situação criminal.",
+      "description": "A_Definir",
+      "buttonLabelModal": "A_Definir",
+      "buttonLabel": "A_Definir"
+    }
+  },
+  "maps": {
+    "minitag": "LOCALIZAÇÃO",
+    "title": "Encontre-nos em Guarulhos - SP",
+    "subtitle": "Visite nosso endereço e confira no mapa abaixo como chegar facilmente.",
+    "embedsrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3707.905613461239!2d-46.545077!3d-23.4515837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cef5101e3876fd%3A0xc7f92e395c146cb0!2sR.%20Santo%20Cristo%2C%2048%20-%20sala%201%20-%20Vila%20Fiuza%2C%20Guarulhos%20-%20SP%2C%2007094-150!5e1!3m2!1spt-BR!2sbr!4v1755548402136!5m2!1spt-BR!2sbr"
+  },
+  "about": {
+    "imagem": {
+      "alt": "A_Definir"
+    },
+    "miniTag": "QUEM É A DRA. CLAUDIA FERREIRA",
+    "title": "Minha trajetória",
+    "subtitle": "Advogada criminal desde 1997, vencendo preconceitos e garantindo justiça.",
+    "paragraph": "Sou uma advogada preta, formada em 1997, com ampla experiência em direito criminal, especialmente em execução criminal. <br/> Ao longo da minha carreira, enfrento e supero preconceitos diariamente, sempre focando em resultados concretos e na defesa justa dos meus clientes.",
+    "buttonModalLabelAbout": "Continuar lendo",
+    "modal": "Sou uma advogada preta, formada em 1997, com ampla experiência em direito criminal, especialmente em execução criminal. <br/> <br/> Ao longo da minha carreira, enfrento e supero preconceitos diariamente, sempre focando em resultados concretos e na defesa justa dos meus clientes. <br/><br/> Ofereço atendimento humanizado, sigiloso e transparente, tanto presencial quanto online, em todo o Brasil. <br/><br/> Priorizo a comunicação com famílias de presos, acesso aos processos, agilidade em flagrantes e dedicação exclusiva a cada caso, garantindo suporte em todos os momentos. <br/> <br/>Atuo com rapidez em situações complexas como prisões indevidas, progressão de regime ou audiências de custódia.<br/> <br/> Acompanhamento diário pelo nosso sistema operacional, despachos com juízes e diretores de unidades, e petições objetivas garantem atenção máxima às demandas de cada cliente.   ",
+    "ctaButtonAriaLabel": "",
+    "ctaButtonText": "Entre em contato",
+    "aboutSocial": {
+      "miniTag": "REDES SOCIAIS",
+      "title": "Conecte-se agora mesmo",
+      "subtitle": "Aproveite nossas redes sociais para mantermos contato e ficar por dentro de atualizações importantes no mundo do direito.",
+      "labelInstagram": "Siga-me no Instagram",
+      "labelFacebook": "Siga-me no Facebook",
+      "labelLinkedin": "Siga-me no LinkedIn",
+      "labeltiktok": "Siga-me no TikTok",
+      "labelX": "A_Definir"
+    }
+  },
+  "cta": {
+    "miniTag": "A_Definir",
+    "title": "A_Definir",
+    "subtitle": "A_Definir",
+    "ctaButtonText": "A_Definir"
+  },
+  "ctaSecondary": {
+    "title": "<span class=\"text-primary font-bold\">Dúvidas?</span> Entre em contato conosco para podermos lhe ajudar, <span class=\"text-primary font-bold\">estamos te esperando.</span>",
+    "subtitleDireitaPartes": ["E N T R E", "E M", "C O N T A T O", "V I A"],
+    "titleDireita": "WhatsApp",
+    "ctaButtonText": "Entre em Contato"
+  },
+  "steps": {
+    "miniTag": "PASSO A PASSO",
+    "title": "Como funciona nosso atendimento?",
+    "subtitle": "",
+    "cards": {
+      "card1": {
+        "stepNumber": 1,
+        "cardTitle": "Consulta inicial",
+        "cardDescription": "Realizamos uma reunião para entender seu caso e identificar suas necessidades jurídicas."
+      },
+      "card2": {
+        "stepNumber": 2,
+        "cardTitle": "Análise detalhada",
+        "cardDescription": "Examinamos todos os aspectos do seu caso, revisando documentos e evidências para obter uma visão completa."
+      },
+      "card3": {
+        "stepNumber": 3,
+        "cardTitle": "Elaboração da estratégia",
+        "cardDescription": "Criamos uma estratégia jurídica personalizada para proteger seus interesses de maneira eficaz."
+      },
+      "card4": {
+        "stepNumber": 4,
+        "cardTitle": "Ação legal",
+        "cardDescription": "Iniciamos e conduzimos as ações judiciais ou o serviço contratado, buscando justiça e soluções personalizadas conforme a necessidade do seu caso."
+      }
+    }
+  },
+  "blog": {
+    "miniTag": "A_Definir",
+    "title": "A_Definir",
+    "subtitle": "A_Definir",
+    "labelCards": "A_Definir",
+    "label": "A_Definir",
+    "blogLink": "A_Definir"
+  },
+  "faq": {
+    "miniTag": "TIRE SUAS DÚVIDAS",
+    "title": "Perguntas Frequentes",
+    "subtitle": "Confira as perguntas abaixo para esclarecer suas dúvidas.",
+    "questions": {
+      "question1": {
+        "question": "Como posso contratar seus serviços?",
+        "answer": "Agende sua consulta conosco via WhatsApp e conversaremos sobre suas necessidades e avaliaremos os custos."
+      },
+      "question2": {
+        "question": "Qual é o prazo médio para resolução de um caso?",
+        "answer": "O prazo médio varia conforme a complexidade, mas discutiremos uma estimativa durante a consulta inicial."
+      },
+      "question3": {
+        "question": "Quais documentos devo levar para a consulta?",
+        "answer": "Traga os documentos relevantes ao seu caso, como contratos, correspondências e registros, além de documentos pessoais e comprovante de residência."
+      },
+      "question4": {
+        "question": "Vocês oferecem serviços de consultoria preventiva?",
+        "answer": "Sim, oferecemos consultoria preventiva para evitar problemas futuros e garantir conformidade legal."
+      }
+    },
+    "paragraph": "Clique aqui caso tenha mais dúvidas"
+  }
+}
