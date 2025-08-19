@@ -39,14 +39,14 @@
     },
     "card3": {
       "title": "Flagrantes e Audiência de Custódia",
-      "subtitle": "Acompanhamento jurídico imediato para detenções.",
+      "subtitle": "Acompanhamento jurídico imediato 24h.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card4": {
       "title": "Lei de drogas",
-      "subtitle": "Defesa especializada em processos ligados a drogas.",
+      "subtitle": "Defesa especializada com estratégias, inclusive narcohomicidio.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir",
@@ -60,8 +60,8 @@
       "buttonLabel": "A_Definir"
     },
     "card6": {
-      "title": "Defesa Criminal",
-      "subtitle": "Protegendo direitos em qualquer situação criminal.",
+      "title": "Execução Criminal",
+      "subtitle": "Pedidos de semiaberto, condicional, benefícios legais.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
@@ -82,7 +82,7 @@
     "subtitle": "Advogada criminal desde 1997, vencendo preconceitos e garantindo justiça.",
     "paragraph": "Sou uma advogada preta, formada em 1997, com ampla experiência em direito criminal, especialmente em execução criminal. <br/> Ao longo da minha carreira, enfrento e supero preconceitos diariamente, sempre focando em resultados concretos e na defesa justa dos meus clientes.",
     "buttonModalLabelAbout": "Continuar lendo",
-    "modal": "Sou uma advogada preta, formada em 1997, com ampla experiência em direito criminal, especialmente em execução criminal. <br/> <br/> Ao longo da minha carreira, enfrento e supero preconceitos diariamente, sempre focando em resultados concretos e na defesa justa dos meus clientes. <br/><br/> Ofereço atendimento humanizado, sigiloso e transparente, tanto presencial quanto online, em todo o Brasil. <br/><br/> Priorizo a comunicação com famílias de presos, acesso aos processos, agilidade em flagrantes e dedicação exclusiva a cada caso, garantindo suporte em todos os momentos. <br/> <br/>Atuo com rapidez em situações complexas como prisões indevidas, progressão de regime ou audiências de custódia.<br/> <br/> Acompanhamento diário pelo nosso sistema operacional, despachos com juízes e diretores de unidades, e petições objetivas garantem atenção máxima às demandas de cada cliente.   ",
+    "modal": "Sou uma advogada preta, formada em 1997, com ampla experiência em direito criminal, especialmente em execução criminal. <br/> <br/> Ao longo da minha carreira, enfrento e supero preconceitos diariamente, sempre focando em resultados concretos e na defesa justa dos meus clientes. <br/><br/> Ofereço atendimento humanizado, sigiloso e transparente, tanto presencial quanto online, em todo o Brasil. <br/><br/> Priorizo a comunicação com os familiares dos apenados, acesso aos processos, agilidade em flagrantes e dedicação exclusiva a cada caso, garantindo suporte em todos os momentos.<br/> <br/>Atuação especializada e imediata em casos de flagrante e audiência de custódia<br/> <br/> Acompanhamento diário pelo nosso sistema operacional, despachos com juízes e diretores de unidades, e petições objetivas garantem atenção máxima às demandas de cada cliente. <br/><br/><i>'A verdadeira justiça é aquela que protege a dignidade humana, até mesmo atrás das grades.'</i> (Cesare Beccaria)",
     "ctaButtonAriaLabel": "",
     "ctaButtonText": "Entre em contato",
     "aboutSocial": {
@@ -149,8 +149,8 @@
     "subtitle": "Confira as perguntas abaixo para esclarecer suas dúvidas.",
     "questions": {
       "question1": {
-        "question": "Como posso contratar seus serviços?",
-        "answer": "Agende sua consulta conosco via WhatsApp e conversaremos sobre suas necessidades e avaliaremos os custos."
+        "question": "Vocês oferecem atendimento online?",
+        "answer": "Sim. Atendemos online em todo o Brasil, com a mesma dedicação, sigilo e eficiência do atendimento presencial."
       },
       "question2": {
         "question": "Qual é o prazo médio para resolução de um caso?",
