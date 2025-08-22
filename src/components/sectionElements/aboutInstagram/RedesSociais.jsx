@@ -101,8 +101,8 @@ const RedesSociais = ({
     icons.push(
       <Button
         key="tiktok"
-        label={t("about.aboutSocial.labelTikTok")}
-        buttonLink={content.texts.links.tiktokProfile}
+        label={t("about.aboutSocial.labeltiktok")}
+        buttonLink={content.texts.links.tiktok}
         icon={
           <svg
             xmlns="http://www.w3.org/2000/svg"

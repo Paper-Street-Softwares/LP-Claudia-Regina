@@ -425,7 +425,7 @@ const content = {
     about: {
       imagem: {
         img: aboutImg1,
-        alt: "Imagem profissional de escritório/advogado(a)",
+        alt: "Imagem profissional Sobre o Profissional",
       },
       miniTag: "A_Definir",
       title: "A_Definir",
