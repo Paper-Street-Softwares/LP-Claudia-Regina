@@ -100,6 +100,21 @@ export default function Quadrada({ appDownloadButtons, colorMode }) {
                     </div>
                   </div>
                 </MotionDivDownToUp>
+                <MotionDivDownToUp>
+                  <div className="flex justify-center desktop1:justify-start">
+                    <div
+                      className={`flex flex-col items-center desktop1:flex-row ${obsTextColor}`}
+                    >
+                      {/* {content.texts.hero.obsHero.icon} */}
+
+                      <p
+                        className={`ml-[35px] text-center desktop1:text-start mt-[12px] desktop1:mt-0 text-[13px] italic ${obsTextColor}`}
+                      >
+                        {t("hero.obsHeroTwo.text")}
+                      </p>
+                    </div>
+                  </div>
+                </MotionDivDownToUp>
 
                 {/* Botões de download */}
                 {appDownloadButtons && (
