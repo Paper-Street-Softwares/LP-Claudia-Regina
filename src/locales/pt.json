@@ -11,12 +11,15 @@
     "ctaButtonTextResponsive": "Contato"
   },
   "hero": {
-    "miniTag": "ADVOGADA CRIMINALISTA EM GUARULHOS - SP",
+    "miniTag": "ADVOGADA CRIMINALISTA",
     "title": "Justiça rápida, onde ninguém mais <span class=\"text-primary font-bold\">chega</span>",
     "subtitle": "Defesa criminal estratégica, humanizada e sem barreiras, pronta para agir a qualquer momento.",
     "ctaButtonText": "Garanta sua defesa agora",
     "obsHero": {
-      "text": "Atendimento 24 em casos de prisão em flagrante."
+      "text": "Atendimento presencial em Guarulhos e online para todo Brasil."
+    },
+    "obsHeroTwo": {
+      "text": "Atendimento 24 horas em casos de prisão em flagrante."
     }
   },
   "features": {

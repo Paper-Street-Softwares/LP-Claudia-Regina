@@ -55,8 +55,8 @@ export const infos = {
   domain: "ferreiraealvesadv.com.br", // Sem "www"
   phone: {
     ddd: "11",
-    firstPart: "94700", // Apenas os 5 primeiros números (incluindo o 9)
-    secondPart: "1941", // Apenas os 4 últimos números
+    firstPart: "3566", // Apenas os 5 primeiros números (incluindo o 9)
+    secondPart: "6392", // Apenas os 4 últimos números
   },
   phoneSecundario: {
     ddd: "A_Definir",
